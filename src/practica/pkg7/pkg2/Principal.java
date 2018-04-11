@@ -14,8 +14,7 @@ import java.util.regex.Pattern;
 public class Principal {
 
     public static void main(String[] args) {
-        // TODO code application logic here
-        String DatosCliente = "datos_cliente.xml";
+        String DatosCliente = crearStringDatosCliente();
         File fichero = new File(DatosCliente);
 
         Cliente nuevocliente = new Cliente();
@@ -23,7 +22,7 @@ public class Principal {
         String cliente1 = "X12345678F,\"nombre\",\"apellidos\",+(82)12345678, 612345678,test@TEST.com,(91)23456789,eee@eeeeee,44229\n"
                 + ",prueba@prueba.com";
 
-        Formateadora formatear = new Formateadora();
+        Formato formatear = new Formato();
         String datos= formatear.formatearCadena(cliente1);
 
         try {
@@ -39,6 +38,12 @@ public class Principal {
 
         
 
+    }
+
+    private static String crearStringDatosCliente() {
+        // TODO code application logic here
+        String DatosCliente = "datos_cliente.xml";
+        return DatosCliente;
     }
 
 }

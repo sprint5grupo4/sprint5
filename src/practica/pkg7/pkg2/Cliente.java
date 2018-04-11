@@ -15,7 +15,7 @@ public class Cliente {
     private String nombre;
     private String apellidos;
     private String telefono;
-    private String email;
+    private String correo;
     private ArrayList<Telefonos> arraytelefonos;
     private ArrayList<Emails> arrayemails;
     
@@ -94,18 +94,18 @@ public class Cliente {
 
     /**
      *Nos devuelve el Email
-     * @return Devuelve el dato email como un String
+     * @return Devuelve el dato correo como un String
      */
-    public String getEmail() {
-        return email;
+    public String getCorreo() {
+        return correo;
     }
 
     /**
      *Su función es introducir el valor Email
-     * @param email es el dato email como tipo de dato String
+     * @param email es el dato correo como tipo de dato String
      */
     public void setEmail(String email) {
-        this.email = email;
+        this.correo = email;
     }
 
     
