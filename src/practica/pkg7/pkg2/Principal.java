@@ -8,6 +8,8 @@ import java.util.regex.Pattern;
 /**
  *
  * @author pedroangelalcantaraalcaide
+ * @author oscarsomozaperdigon
+ * @author isabelroldancordoba
  */
 public class Principal {
 
