@@ -114,7 +114,7 @@ public class Cliente {
 		StringBuffer salida = new StringBuffer();
 		salida.append("<?xml version=\"1.0\" encoding=\"UTF-8\"?>" + "\n");
 		salida.append("<datos_cliente>" + "\n");
-		salida.append("<id>" + this.dni + "</id>" + "\n");
+		salida.append("<id>" + this.getDni() + "</id>" + "\n");
 		salida.append("<nombre>" + this.nombre + "</nombre>" + "\n");
 		salida.append("<apellidos>" + this.apellidos + "</apellidos>" + "\n");
 		Comparator<Telefonos> comparadortelfs = Collections.reverseOrder();
