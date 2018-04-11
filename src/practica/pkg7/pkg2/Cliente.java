@@ -20,7 +20,7 @@ public class Cliente {
     private ArrayList<Emails> arrayemails;
     
     Cliente(){}
-    Cliente(String dni,String nombre,String apellidos,ArrayList<Telefonos> telefonos,ArrayList<Emails> emails){
+    Cliente(String dni, String nombre, String apellidos, ArrayList<Telefonos> telefonos, ArrayList<Emails> emails, int parametroPrueba){
       this.dni=dni;
       this.nombre=nombre;
       this.apellidos=apellidos;
