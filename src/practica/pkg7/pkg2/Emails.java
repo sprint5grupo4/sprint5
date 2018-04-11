@@ -11,6 +11,9 @@ package practica.pkg7.pkg2;
  */
 public class Emails   {
 
+    /**
+     *
+     */
     public String email;
     
     /**

@@ -72,7 +72,7 @@ public class Formato {
         
         
         
-        Cliente nuevoCliente= new Cliente(dni,nombre,apellidos,arraytelefonos,arrayemails);
+        Cliente nuevoCliente= new Cliente(dni,nombre,apellidos,arraytelefonos,arrayemails, null);
         
         return nuevoCliente.toString();
     }

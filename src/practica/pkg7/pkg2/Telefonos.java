@@ -11,7 +11,9 @@ package practica.pkg7.pkg2;
  */
 public class Telefonos  implements Comparable<Telefonos>{
 
-  
+    /**
+     *
+     */
     public String tlf;
     
     /**

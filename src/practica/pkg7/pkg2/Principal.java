@@ -13,6 +13,10 @@ import java.util.regex.Pattern;
  */
 public class Principal {
 
+    /**
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         String DatosCliente = crearStringDatosCliente();
         File fichero = new File(DatosCliente);

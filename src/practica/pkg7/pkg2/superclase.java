@@ -11,9 +11,19 @@ package practica.pkg7.pkg2;
  */
 public class superclase {
     
+    /**
+     *
+     */
     protected String dni;
+
+    /**
+     *
+     */
     protected String nombre;
 
+    /**
+     *
+     */
     public superclase() {
     }
 
