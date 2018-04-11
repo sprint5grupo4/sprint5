@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datos_cliente>
+<id>X12345678F</id>
+<nombre>"nombre"</nombre>
+<apellidos>"apellidos"</apellidos>
+<telefonos total="3">
+<telefono>+(82)12345678</telefono>
+<telefono>(91)23456789</telefono>
+<telefono> 612345678</telefono>
+</telefonos>
+<mails>
+<mail>test@TEST.com</mail>
+<mail>prueba@prueba.com</mail>
+</mails>
+</datos_cliente>*<?xml version="1.0" encoding="UTF-8"?>
+<datos_cliente>
+<id>X12345678F</id>
+<nombre>"nombre"</nombre>
+<apellidos>"apellidos"</apellidos>
+<telefonos total="3">
+<telefono>+(82)12345678</telefono>
+<telefono>(91)23456789</telefono>
+<telefono> 612345678</telefono>
+</telefonos>
+<mails>
+<mail>test@TEST.com</mail>
+<mail>prueba@prueba.com</mail>
+</mails>
+</datos_cliente><?xml version="1.0" encoding="UTF-8"?>
+<datos_cliente>
+<id>X12345678F</id>
+<nombre>"nombre"</nombre>
+<apellidos>"apellidos"</apellidos>
+<telefonos total="3">
+<telefono>+(82)12345678</telefono>
+<telefono>(91)23456789</telefono>
+<telefono> 612345678</telefono>
+</telefonos>
+<mails>
+<mail>test@TEST.com</mail>
+<mail>prueba@prueba.com</mail>
+</mails>
+</datos_cliente><?xml version="1.0" encoding="UTF-8"?>
+<datos_cliente>
+<id>X12345678F</id>
+<nombre>"nombre"</nombre>
+<apellidos>"apellidos"</apellidos>
+<telefonos total="3">
+<telefono>+(82)12345678</telefono>
+<telefono>(91)23456789</telefono>
+<telefono> 612345678</telefono>
+</telefonos>
+<mails>
+<mail>test@TEST.com</mail>
+<mail>prueba@prueba.com</mail>
+</mails>
+</datos_cliente><?xml version="1.0" encoding="UTF-8"?>
+<datos_cliente>
+<id>X12345678F</id>
+<nombre>"nombre"</nombre>
+<apellidos>"apellidos"</apellidos>
+<telefonos total="3">
+<telefono>+(82)12345678</telefono>
+<telefono>(91)23456789</telefono>
+<telefono> 612345678</telefono>
+</telefonos>
+<mails>
+<mail>test@TEST.com</mail>
+<mail>prueba@prueba.com</mail>
+</mails>
+</datos_cliente><?xml version="1.0" encoding="UTF-8"?>
+<datos_cliente>
+<id>X12345678F</id>
+<nombre>"nombre"</nombre>
+<apellidos>"apellidos"</apellidos>
+<telefonos total="3">
+<telefono>+(82)12345678</telefono>
+<telefono>(91)23456789</telefono>
+<telefono> 612345678</telefono>
+</telefonos>
+<mails>
+<mail>test@TEST.com</mail>
+<mail>prueba@prueba.com</mail>
+</mails>
+</datos_cliente>
